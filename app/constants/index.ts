@@ -204,7 +204,7 @@ export const users = [
     imageUrl: "/assets/images/david.webp",
     dateJoined: formatDate("2025-01-02"),
     itineraryCreated: 4,
-    status: "user",
+    status: "admin",
   },
   {
     id: 3,
@@ -213,6 +213,24 @@ export const users = [
     imageUrl: "/assets/images/david.webp",
     dateJoined: formatDate("2025-01-03"),
     itineraryCreated: 8,
+    status: "user",
+  },
+  {
+    id: 4,
+    name: "John Smith",
+    email: "john.smith@example.com",
+    imageUrl: "/assets/images/david.webp",
+    dateJoined: formatDate("2025-01-03"),
+    itineraryCreated: 3,
     status: "admin",
+  },
+  {
+    id: 5,
+    name: "John Smith",
+    email: "john.smith@example.com",
+    imageUrl: "/assets/images/david.webp",
+    dateJoined: formatDate("2025-01-03"),
+    itineraryCreated: 5,
+    status: "user",
   },
 ];
