@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://www.youtube.com/watch?v=xZ1ba-RLrjo" target="_blank">
+    <a href="/" target="_blank">
       <img src="public/assets/images/readme.png" alt="Project Banner">
     </a>
   <br />
